@@ -1,0 +1,52 @@
+.soluti {
+    background-color: rgb(190, 221, 221);
+}
+.h1tx {
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.ptx {
+    text-align: center;
+    margin-top: 10px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+.soluti-inside {
+    padding: 20px;
+}
+.card {
+    margin-top: 20px;
+    border-radius: 17px;
+}
+.card-img-top {
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+.card-title {
+    font-size: 35px;
+}
+.card-text {
+    font-size: small;
+}
+.container {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+.antikeed {
+    text-decoration: none;
+    font-weight: bold;
+}
+.explore {
+    text-align: center;
+    background-color: rgb(255, 226, 226);
+}
+.explore-inside {
+    padding: 20px;
+}
+.explore h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.explore p {
+    font-size: 16px;
+    color: #666;
+}
